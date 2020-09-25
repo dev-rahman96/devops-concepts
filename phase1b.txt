@@ -34,3 +34,9 @@ Cloud scalability in cloud computing refers to the ability to
 increase or decrease IT resources as needed to meet changing demand. 
 Scalability is one of the hallmarks of the cloud and the primary driver 
 of its exploding popularity with businesses. 
+
+
+
+Software Architecture / Software Architecture Patterns
+Client/Server, Peer-to-Peer, Monolithic, Microservices, REST
+
