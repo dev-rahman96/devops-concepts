@@ -37,6 +37,6 @@ of its exploding popularity with businesses.
 
 
 
-Software Architecture / Software Architecture Patterns
-Client/Server, Peer-to-Peer, Monolithic, Microservices, REST
+<!-- Software Architecture / Software Architecture Patterns
+Client/Server, Peer-to-Peer, Monolithic, Microservices, REST -->
 
